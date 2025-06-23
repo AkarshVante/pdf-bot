@@ -75,10 +75,17 @@ Python Version: The app requires Python 3.10. Higher versions (e.g., 3.12) may c
 Project Structure
 pdf_qa_bot/
 ├── app.py                 # Main Streamlit application
+
 ├── requirements.txt       # Python dependencies
+
 ├── runtime.txt            # Python version specification
+
 ├── .env.example           # Template for environment variables
+
 ├── .gitignore             # Git ignore rules
+
 ├── .streamlit/
+
 │   └── config.toml        # Streamlit configuration
+
 └── README.md              # This file
